@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\acer\\.nuget\\packages\\": {}
+    "C:\\Users\\rahul.bijarnia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acer\\KBCGAME\\KBCGAME.csproj",
+      "projectUniqueName": "C:\\Users\\rahul.bijarnia\\Downloads\\KBCGAME\\KBCGAME\\KBCGAME.csproj",
       "projectName": "KBCGAME",
-      "projectPath": "C:\\Users\\acer\\KBCGAME\\KBCGAME.csproj",
-      "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acer\\KBCGAME\\obj\\",
+      "projectPath": "C:\\Users\\rahul.bijarnia\\Downloads\\KBCGAME\\KBCGAME\\KBCGAME.csproj",
+      "packagesPath": "C:\\Users\\rahul.bijarnia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rahul.bijarnia\\Downloads\\KBCGAME\\KBCGAME\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rahul.bijarnia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
